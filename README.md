@@ -21,3 +21,11 @@ If you do not wish for me to archive those charts, please [contact me](CONTACT).
 Feel free to open a fork and open a merge request into this repository. 
 
 Posting others' charts without their consent is not allowed. 
+
+## Recruiting
+
+Due to time and manpower constraints, it is unfeasible to enter non-parsable data manually. Currently, the chart constants stored in the database are fully extrated from the arcpkg file via [arcpkg-rd](http://github.com/arccreate-archival-team/arcpkg-rd). This may or may not affect the data and statistics from the dataset.
+
+Moreover, artists will have aliases and collaborations. This makes it difficult to figure out who is the most popular artist. 
+
+We are recruiting volunteers to manually enter the chart constants, and aliases. **This recruitment only lasts until the full archive's data has been retrieved. Updates to the repository can and will be done by me, myself.** 
