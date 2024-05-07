@@ -12,7 +12,7 @@ Using the data we have, here are the top 10 chart constants.
 
 ![Chart of frequency against CC](./resources/Count%20vs%20CC.png)
 
-Note that I did not include a way to reverse the displayed chart constant to actual chart constant. The 9.7 count is not a result of considering all 9+s without an explicit chart constant as 9.7.
+Note that I did not include a way to infer the actual chart constant from the displayed chart constant. The 9.7 count is not a result of considering all 9+s without an explicit chart constant as 9.7.
 
 Honestly, this wasn't very surprising.
 
@@ -20,7 +20,7 @@ The actual surprising part comes when you include the null values. I've used -1 
 
 ![Chart of frequency against CC, including nulls](./resources/Count%20vs%20CC%20w.-1s.png)
 
-I don't know why there's so many. It seems like something small that probably just takes 10 seconds to stick a random value that you think suits the chart (Which is probably included in the discord server anyways).
+I don't know why there's so many. 
 
 Maybe I've not mapped enough.
 
@@ -45,7 +45,7 @@ Of course there's a handful of 69s and 42s.
 
 Composers are much more evenly spread compared to chart constants.
 
-The issue now comes from the aliases that each artist has. I don't have the time to research every artist listed, and name every single one of them.
+The issue now comes from the aliases that each artist has. I don't have the time to research every artist listed, and make a regex for every single one of them.
 
 I manually wrote the regexes for a handful of artists that I like, or were in the top 11.
 
