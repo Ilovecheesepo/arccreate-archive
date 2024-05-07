@@ -12,6 +12,10 @@ Merge requests are welcome.
 
 If the admins would like to take over this repository, I will be happy to hand it over to them. 
 
+## Statistics
+
+Interesting observations can be seen in [stats](https://github.com/ArcCreate-Archival-Team/arccreate-archive/tree/main/stat). 
+
 ## Takedowns 
 
 If you do not wish for me to archive those charts, please [contact me](CONTACT). I will delete the git repository, and re-upload it without your entry. That way, it will not be accessible through commit history, either. 
