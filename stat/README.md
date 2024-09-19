@@ -57,11 +57,11 @@ Anyways, if you have any artists you want to see if I ever write another documen
 
 More interesting composer statistics:
 
-| Composer | Frequency | Comments |
-| --- | --- | --- |
-| nayuta | 11 | So fun. |
-| Sasakure.UK | 15 | |
-| N/A | 9 | |
+| Composer | Frequency |
+| --- | --- | 
+| nayuta | 11 |
+| Sasakure.UK | 15 |
+| N/A | 9 |
 
 If anyone has any free time, I need volunteers (Not particularly urgently) to help create a table of composer aliases so I can easily query each artist.
 
@@ -74,8 +74,6 @@ I don't know enough to write out the aliases that each charters use, so I just t
 ![Chart of frequency against charter](./resources/Count%20vs%20Charter.png)
 
 Arcthesia is the default anonymous name for contest submissions, from what I gather, but I've included it for completeness. That's why I selected the top 11 charters.
-
-Thank you for your service, if you're reading this.
 
 ## BPM
 
