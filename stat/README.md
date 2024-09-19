@@ -59,9 +59,9 @@ More interesting composer statistics:
 
 | Composer | Frequency | Comments |
 | --- | --- | --- |
-| nayuta | 11 | Queried because I suddenly remembered staringsky loved nayuta. |
+| nayuta | 11 | So fun. |
 | Sasakure.UK | 15 | |
-| N/A | 9 | How? |
+| N/A | 9 | |
 
 If anyone has any free time, I need volunteers (Not particularly urgently) to help create a table of composer aliases so I can easily query each artist.
 
